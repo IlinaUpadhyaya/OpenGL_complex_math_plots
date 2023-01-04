@@ -28,8 +28,6 @@ Python version 3.10
 - Navigate to directory in which project is saved 
 - Run renderer.py file using command python3 renderer.py 
 
-#### On Windows 
-
 ## Sources 
 - FreeType Tutorial 
 - OPENGL Tutorials 
